@@ -1,0 +1,7 @@
+{
+  "name": "TeamPortal & Redirector",
+  "description": "A comprehensive team-based platform for attendees to manage project submissions, file uploads, and keyword-based URL redirects with a built-in mock backend.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
